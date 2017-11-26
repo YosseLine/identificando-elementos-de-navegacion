@@ -51,4 +51,4 @@ Porque es la navegación principal de la página web.
 
 3. Navegación Contextual y Facetada.
 
-Conetxual porque nos está mostrando las noticias más populares, sus trending. Facetada porque, no podemos modificar la información, son filtros no editables.
+Contexual porque nos está mostrando las noticias más populares, sus trending. Facetada porque, no podemos modificar la información, son filtros no editables.
